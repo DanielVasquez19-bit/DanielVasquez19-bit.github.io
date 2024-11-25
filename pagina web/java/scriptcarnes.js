@@ -45,7 +45,7 @@ const recetas = {
         titulo: "Albondigas en Salsa",
         contenido: "ngredientes: Carne molida,  ajo, tomate, cebolla, especias .Preparación: Preparación: Forma albóndigas, dóralas y cocina en salsa de tomate, condimentar al gusto. "
     },
-    "peechuga": {
+    "pechuga": {
         titulo: "Pechuga de Pollo Rellena",
         contenido: "ngredientes: Pechugas de pollo, queso, jamón, espinacas, sal, pimienta. Preparación: Preparación: Rellena las pechugas, ciérralas con palillos y cocina al horno o sartén."
     },
